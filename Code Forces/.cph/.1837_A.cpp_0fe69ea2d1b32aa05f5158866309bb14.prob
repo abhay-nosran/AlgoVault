@@ -1,0 +1,1 @@
+{"name":"Local: 1837_A","url":"c:\\Users\\hp\\Desktop\\Code Forces\\1837_A.cpp","tests":[{"id":1740155097101,"input":"3\n10 2\n10 3\n3 4\n","output":"2\n7 3\n1\n10\n1\n3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\hp\\Desktop\\Code Forces\\1837_A.cpp","group":"local","local":true}
