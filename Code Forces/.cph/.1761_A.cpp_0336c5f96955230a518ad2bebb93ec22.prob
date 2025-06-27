@@ -1,1 +1,0 @@
-{"name":"Local: 1761_A","url":"c:\\Users\\hp\\Desktop\\Code Forces\\1761_A.cpp","tests":[{"id":1737983362613,"input":"4\n1 1 1\n2 1 2\n3 1 1\n4 1 1\n","output":"Yes\nNo\nNo\nYes\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\hp\\Desktop\\Code Forces\\1761_A.cpp","group":"local","local":true}

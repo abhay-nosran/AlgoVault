@@ -1,1 +1,0 @@
-{"name":"Local: a","url":"c:\\Users\\hp\\Desktop\\Code Forces\\a.cpp","tests":[{"id":1737903181050,"input":"5\n1\n000\n1001\n10101\n01100101011101\n","output":"1\n0\n2\n3\n8\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\hp\\Desktop\\Code Forces\\a.cpp","group":"local","local":true}

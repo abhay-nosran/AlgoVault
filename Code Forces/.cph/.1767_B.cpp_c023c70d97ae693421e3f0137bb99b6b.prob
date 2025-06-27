@@ -1,1 +1,0 @@
-{"name":"Local: 1767_B","url":"c:\\Users\\hp\\Desktop\\Code Forces\\1767_B.cpp","tests":[{"id":1740337555482,"input":"4\n3\n1 2 3\n3\n1 2 2\n2\n1 1000000000\n10\n3 8 6 7 4 1 2 4 10 1\n","output":"3\n2\n500000001\n9\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\hp\\Desktop\\Code Forces\\1767_B.cpp","group":"local","local":true}
